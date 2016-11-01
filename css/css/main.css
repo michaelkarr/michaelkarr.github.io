@@ -1,0 +1,35 @@
+/*****************************/
+/* INSERT YOUR CSS CODE HERE */
+/*****************************/
+
+.jumbotron {
+    background-color: #79C0FF;
+}
+
+.navbar-default {
+    background-color: #79C0FF;
+}
+
+.jumbotron .resume {
+    color: #21537F;
+    font-size: 24px;
+}
+
+.jumbotron img {
+    border-radius: 100%;
+    border: 10px solid white;
+}
+
+.section {
+    background-color: #215375;
+}
+
+body {
+    color: #FFFFFF;
+}
+
+.quote-section {
+    background-color: #79C0FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
