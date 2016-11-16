@@ -1,1 +1,1 @@
-My personal website project, in progress.
+My personal website project, currently in progress.
