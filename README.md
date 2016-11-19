@@ -1,1 +1,1 @@
-My personal website project, in progress, expected completion by 2017.
+My personal website project, expected completion by 2017.
